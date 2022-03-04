@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+
+
 char num[9]={'1','2','3','4','5','6','7','8','9'};
 void p1 ();
 void p2 ();
